@@ -1,0 +1,9 @@
+--------------------
+For Windows
+--------------------
+go build main.go city.go
+
+--------------------
+For Linux
+--------------------
+GOOS=linux GOARCH=amd64 go build main.go city.go
