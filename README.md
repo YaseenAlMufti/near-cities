@@ -3,7 +3,7 @@ Get all surrounding cities near the target city within
 the specified radius (miles).
 
 ## Build
-Execute the specific command mentioned in ```builds.txt``` depending
+Execute the specific command mentioned in [builds.txt](https://github.com/YaseenAlMufti/near-cities/blob/main/builds.txt) depending
 on the target environment.
 
 ## Usage
